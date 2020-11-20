@@ -1,2 +1,2 @@
-# C-30
-Creating the vanishing pigs effect
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
